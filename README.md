@@ -1,2 +1,2 @@
-# hangman-
+# hangman
 Hangman game simulation using python
